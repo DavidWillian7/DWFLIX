@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@media screen and (max-width:680px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .botao{
+        margin-top: 5px;
+        width: 200px;
+    }
+}
+@media screen and (max-width:760px){
+    .botao{
+        margin-top: 5px;
+        width: 200px;
+    }
+}
