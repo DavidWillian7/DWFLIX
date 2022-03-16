@@ -1,9 +1,9 @@
 # DWFLIX
 Minha versão da interface da netflix, principal site de streaming mundial, que se adapta a diferentes tamanhos de tela além de ter uma barra de rolagem horizontal infinita com os filmes. 
 
-<img src="tela.png" alt="DWFLIX">
+<img src="imagens/tela.png" alt="DWFLIX">
 
-<img src="tela1.png" alt="barra de rolagem horizontal">
+<img src="imagens/tela1.png" alt="barra de rolagem horizontal">
 
 ## Feito Com:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
