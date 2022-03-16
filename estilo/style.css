@@ -37,7 +37,10 @@ header nav a{
 }
 
 header nav a:hover{
-    color: white;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .filme-principal{
@@ -78,6 +81,7 @@ header nav a:hover{
     margin-right: 15px;
     font-size: 13px;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 .botao:hover{
